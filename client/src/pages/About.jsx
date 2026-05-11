@@ -9,7 +9,7 @@ export default function About() {
             Your Edge in Modern <span className='text-blue-600'>Real Estate</span>
           </h1>
           <p className='mb-6 text-slate-600 leading-relaxed text-lg'>
-            Dwelledge is more than just a property site; it’s a dynamic marketplace designed to give both sellers and buyers a competitive advantage. We recognized that the traditional real estate process was often slow and disconnected, so we built a platform where technology meets transparency.
+            DwellEdge is more than just a property site; it’s a dynamic marketplace designed to give both sellers and buyers a competitive advantage. We recognized that the traditional real estate process is often slow and disconnected, so we built a platform where technology meets transparency.
           </p>
           <div className='flex gap-4'>
             <div className='bg-blue-50 p-4 rounded-xl border border-blue-100 flex-1'>
@@ -35,11 +35,11 @@ export default function About() {
         <div>
           <h2 className='text-2xl font-bold text-slate-800 mb-4'>Our Mission</h2>
           <p className='text-slate-600'>
-            To simplify the property journey by providing a high-performance platform that empowers sellers to showcase their homes and helps buyers find their perfect "edge" in the market.
+            To simplify the property journey by providing a high-performance platform that empowers sellers to showcase their homes and help buyers find their perfect "edge" in the market.
           </p>
         </div>
         <div>
-          <h2 className='text-2xl font-bold text-slate-800 mb-4'>Why Dwelledge?</h2>
+          <h2 className='text-2xl font-bold text-slate-800 mb-4'>Why DwellEdge?</h2>
           <p className='text-slate-600'>
             Unlike generic listing sites, Dwelledge focuses on high-quality media, real-time updates, and a seamless user experience that makes property management feel like second nature.
           </p>
@@ -54,7 +54,7 @@ export default function About() {
 
       <div className='mt-16 p-8 bg-slate-900 rounded-3xl text-center text-white'>
         <h2 className='text-3xl font-bold mb-4'>Ready to list your property?</h2>
-        <p className='text-slate-400 mb-6'>Join thousands of owners who trust Dwelledge to showcase their homes.</p>
+        <p className='text-slate-400 mb-6'>Join thousands of owners who trust DwellEdge to showcase their homes.</p>
         <button className='bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-full font-bold transition'>
           Get Started Now
         </button>
