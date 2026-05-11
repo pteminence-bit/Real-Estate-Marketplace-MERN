@@ -8,7 +8,7 @@ export default function About() {
       </h1>
       
       <p className='mb-6 text-slate-700 leading-relaxed'>
-        <span className="font-semibold text-blue-600">DwellEdge</span> is a leading real estate agency that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.
+        <span className="font-semibold text-blue-600">DwellEdge</span> is a leading platform that specializes in helping clients buy, sell, and rent properties in the most desirable neighborhoods. Our team of experienced agents is dedicated to providing exceptional service and making the buying and selling process as smooth as possible.
       </p>
 
       <p className='mb-6 text-slate-700 leading-relaxed'>
